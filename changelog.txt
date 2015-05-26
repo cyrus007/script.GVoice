@@ -1,0 +1,8 @@
+= Changelog =
+
+== 0.0.1 ==
+  * Initial release;
+  * Partially working functionality:
+    * XBMC actions (i.e. Caller ID notification popup);
+    * Displaying Voice Mail info into XBMC;
+

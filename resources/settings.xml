@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+        <!-- Info -->
+        <setting id="first_run" type="bool" default="true" visible="false"/>
+        <setting id="url" type="text" label="30001" default="http://github.com/cyrus007" enable="false"/>
+        <setting id="gtalk_debug" type="bool" label="30002" default="false"/>
+        <setting id="gtalk_chatbot" type="bool" label="30003" default="false"/>
+        <!-- Connection -->
+        <setting id="separator" type="lsep" label="30010"/>
+        <setting id="gtalk_connect" type="bool" label="30012" default="false"/>
+        <setting id="gtalk_host" type="text" label="30013" enable="false" default="talk.google.com"/>
+        <setting id="gtalk_port" type="number" label="30014" enable="false" default="5223"/>
+        <setting id="gtalk_user" type="text" label="30015" enable="!eq(-3,false)" default="example@gmail.com"/>
+        <setting id="gtalk_pass" type="text" option="hidden" label="30016" enable="!eq(-4,false)" default=""/>
+        <!-- Inbound notification related settings -->
+        <setting id="separator" type="lsep" label="30020"/>
+        <setting id="gtalk_notification" type="bool" label="30021" default="true"/>
+        <setting id="gtalk_notification_timeout" type="enum" label="30022" values="5|10|15|20|25|30" default="2"/>
+        <setting id="gtalk_pause_media" type="bool" label="30023" default="true"/>
+        <setting id="caller_picture_enabled" type="bool" label="30024" default="false"/>
+        <setting id="caller_picture_path" type="folder" label="30025" default=""/>
+</settings>

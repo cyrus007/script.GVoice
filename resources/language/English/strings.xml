@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30000">XBMC PBX Addon</string>
+    <string id="30001">URL</string>
+    <string id="30002">Debug</string>
+    <string id="30003">Disable background service</string>
+
+    <!-- Script Settings related strings -->
+    <!-- Connection -->
+    <string id="30010">Gtalk settings</string>
+    <!-- string id="30011">Gtalk settings</string -->
+    <string id="30012">Enable connection</string>
+    <string id="30013">Gtalk Hostname or IP Address</string>
+    <string id="30014">Gtalk Port</string>
+    <string id="30015">Gtalk Username</string>
+    <string id="30016">Gtalk Password</string>
+    <!-- Inbound Notifications -->
+    <string id="30020">Notifications</string>
+    <string id="30021">Enable notifications</string>
+    <string id="30022">XBMC: Notification timeout</string>
+    <string id="30023">XBMC: Pause playing Media</string>
+    <string id="30024">XBMC: Show Caller's Picture</string>
+    <string id="30025">XBMC: Search for Caller's Picture here:</string>
+
+    <!-- GUI related strings -->
+    <!-- Notification popup -->
+    <string id="30050">Incoming Call</string>
+    <string id="30051">GVoice Addon Error</string>
+    <string id="30052">Voice Mail Count</string>
+    <string id="30053">New messages: </string>
+    <!-- Dialog Progress -->
+    <string id="30061">Starting...</string>
+    <string id="30062">Skin Setup...</string>
+    <string id="30063">Fetching Back-end Info...</string>
+    <string id="30064">Displaying Back-end Info...</string>
+    <string id="30065">Done...</string>
+    
+    <!-- First time use instructions -->
+    <string id="30171">-== First time use instructions ==-</string>
+    <string id="30172"></string>
+    <string id="30173">Make sure you followed all installation instructions from http://github.com/cyrus007/script-gvoice/</string>
+    <string id="30174"></string>
+    <string id="30175">You will now be prompted to customize this Add-on settings.</string>
+    <string id="30176">If you already did it, you can just ignore it.</string>
+    <string id="30177">Once you finished, start this Add-on again. You will not see this screen again.</string>
+    <string id="30178"></string>
+    <string id="30179">Press any key to continue.</string>
+</strings>
